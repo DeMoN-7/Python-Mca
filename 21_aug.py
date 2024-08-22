@@ -10,3 +10,4 @@ print(x)
 print(x1)
 # strip and find method 
 print(a.strip())
+print(a.strip())
