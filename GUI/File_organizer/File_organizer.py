@@ -62,8 +62,8 @@ def organize_files(directory):
     print("Files have been organized!")
 
     # if name == __main__:
-user_input = input("Enter the directory path to organize: ")
-if os.path.exists(user_input):
-    organize_files(user_input)
-else:
-    print("Invalid directory path!")
+# user_input = input("Enter the directory path to organize: ")
+# if os.path.exists(user_input):
+#     organize_files(user_input)
+# else:
+#     print("Invalid directory path!")
