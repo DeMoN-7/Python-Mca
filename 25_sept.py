@@ -14,3 +14,6 @@ x=t.time()
 print(add(11,313131313))
 x1=t.time()
 print((x1-x)*1000000)
+
+
+# make function to return run time of function
